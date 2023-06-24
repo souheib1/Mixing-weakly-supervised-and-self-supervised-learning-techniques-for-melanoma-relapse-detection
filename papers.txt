@@ -1,0 +1,11 @@
+Self-Supervised Learning
+    SimCLR - https://arxiv.org/pdf/2002.05709.pdf
+    BYOL - https://arxiv.org/pdf/2006.07733.pdf
+    DiNo - https://arxiv.org/pdf/2104.14294.pdf
+
+Weakly-Supervised Learning 
+    AbMIL - https://arxiv.org/pdf/1802.04712.pdf
+    CLAM - https://arxiv.org/pdf/2004.09666.pdf
+Mix:
+    DsMIL - https://arxiv.org/pdf/2011.08939.pdf
+    SS_ViT_Path - https://arxiv.org/pdf/2203.00585.pdf

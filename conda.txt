@@ -1,0 +1,9 @@
+How to activate conda environment: 
+	## Conda already installed to initialize use the next code (just one time)
+	cd /tsi/data_education/IMA206/2022-2023/VisioMel/miniconda3/bin
+	./conda init
+	
+	## Close the terminal session and open new one (important to launch the conda)
+	## I have already created the environment whose name is solo 
+	## To activate use the next command(everytime you will open new terminal session)
+	conda activate solo
