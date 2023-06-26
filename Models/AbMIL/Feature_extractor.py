@@ -1,7 +1,4 @@
-"""
-Code for feature extraction using Resnet18
-By : Souheib & Mayssa
-"""
+
 
 import torch
 import torch.nn as nn
