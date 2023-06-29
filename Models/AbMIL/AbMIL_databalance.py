@@ -1,9 +1,3 @@
-"""
-Code for gatedattention model for MIL 
-By : Souheib & Mayssa
-"""
-
-#version 4 : updated loss with weights / update loss without sum
 
 import torch
 import torch.nn as nn

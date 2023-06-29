@@ -9,24 +9,17 @@ How to activate conda environment:
 	conda activate solo
 
 
-ssh sbenmabr-22@gpu5.enst.fr 
-
 nvidia-smi
 
 watch -n 1 nvidia-smi
 
 solo-learn github
 
-scp sbenmabr-22@gpu5.enst.fr:/home/infres/sbenmabr-22 benchmark.csv
  ------
 
 which python
 
 dali (data loader)
-
-(ml pc mta3i) scp sbenmabr-22@gpu5.enst.fr:/tsi/data_education/IMA206/2022-2023/VisioMel/train_labels.csv ./New_folder
-
-scp ./MIL_V11.py sbenmabr-22@gpu5.enst.fr:/tsi/data_education/IMA206/2022-2023/VisioMel/
 
 
 nohup python Feature_extractor.py &
