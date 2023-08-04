@@ -12,6 +12,7 @@ By leveraging the strengths of BYOL and SimCLR for self-supervised learning, as 
 
 
 <video src='https://drive.google.com/file/d/10cDpKPvYwcBNpkiIHtq4lF0_nv2P8L6w/view?usp=sharing' width=180/>
+  
 ### References
 [1] Ting Chen et al. “A Simple Framework for Contrastive Learning of Visual Representations”. In:
 ArXiv abs/2002.05709 (2020).
